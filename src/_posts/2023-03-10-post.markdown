@@ -14,14 +14,14 @@ categories: bupt
 
 拳拳学子心，丝丝母校情。祝母校北邮越办越好！
 
-![image001.jpg](/assets/2023-03-10-post/image001.jpg)
-![image002.jpg](/assets/2023-03-10-post/image002.jpg)
-![image003.jpg](/assets/2023-03-10-post/image003.jpg)
+![image001.jpg](/images/2023-03-10-post/image001.jpg)
+![image002.jpg](/images/2023-03-10-post/image002.jpg)
+![image003.jpg](/images/2023-03-10-post/image003.jpg)
 
-![image004.jpg](/assets/2023-03-10-post/image004.jpg)
+![image004.jpg](/images/2023-03-10-post/image004.jpg)
 
-![image005.jpg](/assets/2023-03-10-post/image005.jpg)
-![image006.jpg](/assets/2023-03-10-post/image006.jpg)
+![image005.jpg](/images/2023-03-10-post/image005.jpg)
+![image006.jpg](/images/2023-03-10-post/image006.jpg)
 
-![image007.jpg](/assets/2023-03-10-post/image007.jpg)
-![image008.jpg](/assets/2023-03-10-post/image008.jpg)
+![image007.jpg](/images/2023-03-10-post/image007.jpg)
+![image008.jpg](/images/2023-03-10-post/image008.jpg)
