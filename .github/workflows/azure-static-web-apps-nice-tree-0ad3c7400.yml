@@ -29,8 +29,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_src: 'src'
           build_only: true
-          build_dir: public
-      - run: ls -l public
+          build_dir: /public
+      - run: ls -l /public
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
