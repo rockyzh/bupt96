@@ -4,4 +4,4 @@ title:  "欢迎来到北邮96计II"
 date:   2023-03-07 21:22:07 +0800
 categories: bupt
 ---
-如果你是我们中的一员，赶快来参与完善
+如果你是我们中的一员，赶快来[参与完善](https://github.com/rockyzh/bupt96)
