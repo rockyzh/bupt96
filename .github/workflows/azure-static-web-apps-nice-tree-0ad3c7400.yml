@@ -32,10 +32,8 @@ jobs:
           build_dir: ../public
       - run: ls -laR public
       - name: Copy file
-        uses: canastro/copy-action@0.0.2
-        with:
-          source: "/assets"
-          target: "/public/assets"
+        run: |
+          cp -R assets public/assets
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
